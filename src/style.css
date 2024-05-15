@@ -49,4 +49,7 @@ a{
     height: 250px;
     object-fit: contain;
 }
+.card img:hover{
+    transform: scale(1.1);
+}
 
